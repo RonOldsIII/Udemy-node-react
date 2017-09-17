@@ -1,0 +1,6 @@
+module.exports = {
+    googleClientID: process.env.GOOGLE_CLIENT_ID,
+    googleCientSecret: process.env.GOOGLE_CLIENT_SECRET,
+    mongoURI: process.env.MONGO_ID,
+    cookieKey: process.env.COOKIE_KEY
+};
